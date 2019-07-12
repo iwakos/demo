@@ -8,7 +8,7 @@
 </head>
 <body>
 <div><h1>Company Name</h1></div>
-<div><h2>部会のデモだよ！</h2></div>
+<div><h2>デモだよ！!!</h2></div>
 <div>
 	<form action="confirm.php" method="post" name="form" onsubmit="return validate()">
 		<h1 class="contact-title">お問い合わせ 内容入力</h1>
